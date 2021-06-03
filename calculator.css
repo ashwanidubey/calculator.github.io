@@ -14,8 +14,8 @@ html,body
 }
 #main_container
 {
-    height: 550px;
-    width: 250px;
+    height: 142mm;
+    width: 70mm;
     display: flex;
     justify-content: center;
     align-items: center;
