@@ -13,8 +13,8 @@ html,body
 }
 #main_container
 {
-    height: 142mm;
-    width: 70mm;
+    height: 160mm;
+    width: 85mm;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,6 +47,7 @@ html,body
 #table
 {
     width:100%; 
+    height:100%;
     
 }
 .table_row
